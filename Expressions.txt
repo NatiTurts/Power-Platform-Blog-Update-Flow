@@ -1,0 +1,3 @@
+Expression Formulas:
+Filter Array: adddays(utcnow(), -8)
+Set Email Body Variables (Compose will change per branch): join(outputs('Compose'),'')
