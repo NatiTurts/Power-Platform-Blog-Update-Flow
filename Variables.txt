@@ -9,6 +9,7 @@ varYouTubeIcon
 varTwitterIcon
 varGithubIcon
 varHeader
+varEmailSubject
 varFooter
 varLogo
 varPowerAutomateEmailBody
