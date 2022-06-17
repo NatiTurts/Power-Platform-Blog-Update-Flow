@@ -4,7 +4,7 @@ varYouTubeAddress
 varTwitterAddress
 varLinkedInAddress
 varWebsite
-vaLinkedInIcon
+varLinkedInIcon
 varYouTubeIcon
 varTwitterIcon
 varGithubIcon
