@@ -1,3 +1,4 @@
 Expression Formulas:
 Filter Array: adddays(utcnow(), -8)
+Condition (Array will change per branch): lenght(body('Filter_array'))
 Set Email Body Variables (Compose will change per branch): join(outputs('Compose'),'')
