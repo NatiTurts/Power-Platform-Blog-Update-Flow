@@ -21,7 +21,7 @@ Having multiple RSS flows per Power Platform product can get messy. More over, i
 
 Solution|Author(s)
 --------|---------
-ower Platform Blog Update Flow | [Nati Turtledove](https://github.com/NatiTurts) ([@NatiTurts](https://www.twitter.com/NatiTurts) )
+Power Platform Blog Update Flow | [Nati Turtledove](https://github.com/NatiTurts) ([@NatiTurts](https://www.twitter.com/NatiTurts) )
 
 ## Version history
 
